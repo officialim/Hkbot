@@ -46,12 +46,12 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('📽️⌬Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/expmovie")
+                    InlineKeyboardButton('📽️ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/expmovie")
                 ],[
                     InlineKeyboardButton('📞 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🐸 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('🚀 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url="https://t.me/expmovie")
+                    InlineKeyboardButton('🚀 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🚀', url="https://t.me/expmovie")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEJ_1pk154XmO7UAAGe0CJNKM_4T55XwFsAAicBAALIlGQU4j1igJFEppowBA") 
@@ -102,7 +102,7 @@ async def start(client, message):
                     InlineKeyboardButton('📞 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🐸 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('🚀 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('🚀 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🚀', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
