@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🤖 Mʏ Nᴀᴍᴇ : {}</b>
-<b>😎 Cʀᴇᴀᴛᴏʀ Bᴏʏ : <a href=https://t.me/officialdc17>👑 ᴏғғɪᴄɪᴀʟᴅᴄ 😇</a></b>
+<b>😎 Cʀᴇᴀᴛᴏʀ Bᴏʏ : <a href=https://t.me/officialdc17>👑 ᴏғғɪᴄɪᴀʟᴅᴄ </a></b>
 <b>⬆️ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/upBotUpdate>ᴅᴄʙᴏᴛᴜᴘᴅᴀᴛᴇs 🤖</a></b>
 <b>📈 Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v2.8.1 [Sᴛᴀʙʟᴇ]</b>"""
 
